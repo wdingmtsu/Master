@@ -1,4 +1,4 @@
 # Master
-The codes associated with each project we do. 
+The codes associated with each project we finished from SIMIODE (https://www.simiode.org/). 
 The list of the projects:
-- SIMIODE
+- M & M Disease Modeling
