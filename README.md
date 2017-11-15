@@ -5,8 +5,8 @@ The following codes associated with M & M Disease Modeling Project from SIMIODE 
 
 The codes are:
 
-- Bisection and Newton's Methods to do parameter estimation for the growth rate r.
+- Bisection and Newton's Methods to do parameter estimation for the growth rate r: BiNew_RF.py.
 
-- Simunated Annealing Method to do parameter estimation for the growth rate r.
+- Simunated Annealing Method to do parameter estimation for the growth rate r: growth_rate_R_Parameter_Estimation.py.
 
-- Codes to generate the disease spread grid without implementing the experiment using M&Ms.
+- Codes to generate the disease spread grid without implementing the experiment using M&Ms: Sim.py.
