@@ -9,10 +9,10 @@ The following codes associated with
 
 The codes are:
 
-- Bisection and Newton's Methods to do parameter estimation for the growth rate r: BiNew_RF.py.
+- 1(a) Bisection and Newton's Methods to do parameter estimation for the growth rate: --- BiNew_RF.py.
 
-- Simunated Annealing Method to do parameter estimation for the growth rate r: growth_rate_R_Parameter_Estimation.py.
+- 1(b) Simunated Annealing Method to do parameter estimation for the growth rate: --- growth_rate_R_Parameter_Estimation.py.
 
-- Codes to generate the disease spread grid without implementing the experiment using M&Ms: Sim.py.
+- 1(c) Codes to generate the disease spread grid without implementing the experiment using M&Ms: --- Sim.py.
 
-- Ebola with sliders to interact with the model to see how the change in the parameters affect the behavior of susceptible, exposed, infected and recovered populations: Ebola.ipynb
+- 2(a) Ebola with sliders to interact with the model to see how the change in the parameters affect the behavior of susceptible, exposed, infected and recovered populations: --- Ebola.ipynb
