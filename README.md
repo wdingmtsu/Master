@@ -15,4 +15,4 @@ The codes are:
 
 - 1(c) Codes to generate the disease spread grid without implementing the experiment using M&Ms: --- Sim.py.
 
-- 2(a) Ebola with sliders to interact with the model to see how the change in the parameters affect the behavior of susceptible, exposed, infected and recovered populations: --- Ebola.ipynb
+- 2(a) Ebola Modeling with sliders to see how the changes in the parameters affect the dynamics of susceptible, exposed, infected and recovered populations: --- Ebola.ipynb
