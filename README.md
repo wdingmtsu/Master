@@ -1,5 +1,5 @@
 # Master
-The codes associated with each project we finished from SIMIODE (https://www.simiode.org/)
+The codes associated with each project we finished from SIMIODE (https://www.simiode.org/) written by Ryan Florida, Jeffery Summers, Ben Burton and Puran Nepal.
 
 The following codes associated with 
 
