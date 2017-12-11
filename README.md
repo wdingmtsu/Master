@@ -16,3 +16,5 @@ The codes are:
 - 1(c) Codes to generate the disease spread grid without implementing the experiment using M&Ms: --- Sim.py.
 
 - 2(a) Ebola Modeling with sliders to see how the changes in the parameters affect the dynamics of susceptible, exposed, infected and recovered populations: --- Ebola.ipynb
+
+- 3 Malaria Control: David Culver (2016), "1-024-S-MalariaControl," https://simiode.org/resources/1750. --- Malaria-Control.py
