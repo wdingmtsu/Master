@@ -9,6 +9,8 @@ The following codes associated with
 
 3. Malaria Control: (David Culver (2016), "1-024-S-MalariaControl," https://simiode.org/resources/1750.)
 
+4. Pendulum Modeling: Brian Winkel (2016), "3-080-S-PendulumModeling," https://simiode.org/resources/2643.
+
 The codes are:
 
 - 1(a) Bisection and Newton's Methods to do parameter estimation for the growth rate: --- BiNew_RF.py.
@@ -20,3 +22,5 @@ The codes are:
 - 2(a) Ebola Modeling with sliders to see how the changes in the parameters affect the dynamics of susceptible, exposed, infected and recovered populations: --- Ebola.ipynb
 
 - 3 Malaria Control:  modelling concentration of two particular drugs, Proguanil and Atovaquone, in the blood stream during a given number of days. --- Malaria-Control.py
+
+- 4 Pendulum Modeling: ideal pendulum and dampled pendulum. --- PendulumWithOutResistence.ipynb and ResistancePendulum1.ipynb
