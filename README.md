@@ -23,4 +23,4 @@ The codes are:
 
 - 3 Malaria Control:  modelling concentration of two particular drugs, Proguanil and Atovaquone, in the blood stream during a given number of days. --- Malaria-Control.py
 
-- 4 Pendulum Modeling: ideal pendulum and dampled pendulum. --- PendulumWithOutResistence.ipynb and ResistancePendulum1.ipynb
+- 4 Pendulum Modeling: ideal pendulum and dampled pendulum. --- PendulumWithOutResistence.ipynb, ResistancePendulum1.ipynb and ResistancePendulum2.ipynb
