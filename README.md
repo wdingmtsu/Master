@@ -21,6 +21,6 @@ The codes are:
 
 - 2(a) Ebola Modeling with sliders to see how the changes in the parameters affect the dynamics of susceptible, exposed, infected and recovered populations: --- Ebola.ipynb
 
-- 3 Malaria Control:  modelling concentration of two particular drugs, Proguanil and Atovaquone, in the blood stream during a given number of days. --- Malaria-Control.py
+- 3 Malaria Control:  modelling concentration of two particular drugs, Proguanil and Atovaquone, in the blood stream during a given number of days. --- Malaria-Control.ipynb
 
 - 4 Pendulum Modeling: ideal pendulum and dampled pendulum. --- PendulumWithOutResistence.ipynb, ResistancePendulum1.ipynb and ResistancePendulum2.ipynb
