@@ -15,7 +15,7 @@ The codes are:
 
 - 1(a) Bisection and Newton's Methods to do parameter estimation for the growth rate: --- BiNew_RF.ipynb.
 
-- 1(b) Simunated Annealing Method to do parameter estimation for the growth rate: --- growth_rate_R_Parameter_Estimation.py.
+- 1(b) Simunated Annealing Method to do parameter estimation for the growth rate: --- growth_rate_R_Parameter_Estimation.ipynb.
 
 - 1(c) Codes to generate the disease spread grid without implementing the experiment using M&Ms: --- Sim.py.
 
