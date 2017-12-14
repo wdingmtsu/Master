@@ -17,7 +17,9 @@ The codes are:
 
 - 1(b) Simunated Annealing Method to do parameter estimation for the growth rate: --- growth_rate_R_Parameter_Estimation.ipynb.
 
-- 1(c) Codes to generate the disease spread grid without implementing the experiment using M&Ms: --- Sim.py.
+- 1(c) Gradient Descent Method for parameter estimation for the growth rate: --- GradientDescent.py.
+
+- 1(d) Codes to generate the disease spread grid without implementing the experiment using M&Ms: --- Sim.py.
 
 - 2(a) Ebola Modeling with sliders to see how the changes in the parameters affect the dynamics of susceptible, exposed, infected and recovered populations: --- Ebola.ipynb
 
