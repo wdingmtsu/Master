@@ -3,7 +3,7 @@ The codes associated with each project we finished from SIMIODE (https://www.sim
 
 The complete Python notebook is simiode1.ipynb. 
 
-The following codes associated with 
+The following codes are separated from simiode1.ipynb and associated with 
 
 1. M & M Disease Modeling Project (Brian Winkel (2015), "1-017-T-DiseaseSpread," https://www.simiode.org/resources/700.) 
 
