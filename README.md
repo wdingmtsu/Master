@@ -1,6 +1,8 @@
 # Master
 The codes associated with each project we finished from SIMIODE (https://www.simiode.org/) written by Ryan Florida, Jeffery Summers, Ben Burton and Puran Nepal.
 
+The complete Python notebook is simiode1.ipynb. 
+
 The following codes associated with 
 
 1. M & M Disease Modeling Project (Brian Winkel (2015), "1-017-T-DiseaseSpread," https://www.simiode.org/resources/700.) 
