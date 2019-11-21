@@ -1,0 +1,9 @@
+APPROXIMATING DEFINITE INTEGRALS [WITH ERRORS] VIA PYTHON
+ Calculus 2 Final Project
+
+Abstract
+This program calculates the value of an integral by using the Trapezoidal Rule, Midpoint Rule, and Simpson’s Rule. After this, it calculates the errors of the approximation using numerical analysis.
+
+George Gannon
+Gmg3f@mtmail.mtsu.edu
+
